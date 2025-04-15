@@ -1,0 +1,15 @@
+,
+{
+	match = "class_g = 'Alacritty'";
+	opacity = 0.85;
+},
+{
+	match = "class_g = 'Code'";
+	opacity = 0.93;
+	
+},
+{
+	match = "class_g = 'xfce4-terminal' || class_g = 'Xfce4-terminal' ";
+	opacity = 0.85;
+	
+}
