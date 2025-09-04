@@ -1,4 +1,4 @@
-# 🚀 Book Kart Ecommcerce
+# 🚀 Book Kart E-commerce
 
 A full-stack **bookstore application** that enables users to **browse, buy, and sell books** with secure **authentication**, **wishlist**, and **order management**.  
 Built with **Next.js + React + TypeScript (Frontend)** and **Node.js + Express + MongoDB (Backend)**, featuring **Redux Toolkit** for state management, **Razorpay** payment integration, and **Gmail API** for email verification.
